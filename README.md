@@ -114,7 +114,7 @@
 ### Formal Verification
 
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) - abstract interpreter for Rust's MIR from Facebook
-- [elecrolysis](https://github.com/Kha/electrolysis) - formal verification of Rust programs with the Lean theorem prover
+- [electrolysis](https://github.com/Kha/electrolysis) - formal verification of Rust programs with the Lean theorem prover
 
 <br/>
 
@@ -139,7 +139,7 @@
 - [BONOMEN](https://github.com/0xcpu/bonomen) - hunt for malware critical process impersonation
 - [confine](https://github.com/ex0dus-0x/confine) - sandbox for threat detection
 - [redbpf](https://github.com/foniod/redbpf) - crate for writing BPF/eBPF modules
-- [cernan](https://github.com/postmates/cernan) - telemtry aggregation and shipping
+- [cernan](https://github.com/postmates/cernan) - telemetry aggregation and shipping
 
 <br/>
 
