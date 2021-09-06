@@ -140,6 +140,7 @@
 - [confine](https://github.com/ex0dus-0x/confine) - sandbox for threat detection
 - [redbpf](https://github.com/foniod/redbpf) - crate for writing BPF/eBPF modules
 - [cernan](https://github.com/postmates/cernan) - telemetry aggregation and shipping
+- [chainsaw](https://github.com/countercept/chainsaw) - Windows Event Log Hunting
 
 <br/>
 
