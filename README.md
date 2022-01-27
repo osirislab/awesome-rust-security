@@ -34,6 +34,7 @@
 - [rshijack](https://github.com/kpcyrd/rshijack) - TCP connection hijacker
 - [feroxbuster](https://github.com/epi052/feroxbuster) - fast, simple and recursive content discovery tool
 - [rustbuster](https://github.com/phra/rustbuster) - web fuzzer and content discovery tool
+- [rustscan](https://github.com/RustScan/RustScan) - The Modern Port Scanner
 
 ### Authorization & Authentication Frameworks
 
