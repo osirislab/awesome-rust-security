@@ -35,6 +35,10 @@
 - [feroxbuster](https://github.com/epi052/feroxbuster) - fast, simple and recursive content discovery tool
 - [rustbuster](https://github.com/phra/rustbuster) - web fuzzer and content discovery tool
 - [rustscan](https://github.com/RustScan/RustScan) - The Modern Port Scanner
+- [kepler](https://github.com/Exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
+- [phaser](https://github.com/skerkour/phaser) - Automated attack surface mapper and vulnerability scanner
+- [pdfrip](https://github.com/mufeedvh/pdfrip) - Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [chromepass](https://github.com/darkarp/chromepass) - Chromepass - Hacking Chrome Saved Passwords
 
 ### Authorization & Authentication Frameworks
 
@@ -55,10 +59,12 @@
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd) - independent verification of binary packages
 - [rust-tuf](https://github.com/heartsucker/rust-tuf) - Rust implementation of [the Update Framework](https://theupdateframework.io/)
 
-### Other Frameworks
+### Secure Frameworks
 
 - [adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 - [libinjection](https://github.com/arvancloud/libinjection-rs) - Rust bindings to libinjection
+- [http-desync-guardian](https://github.com/aws/http-desync-guardian) - Analyze HTTP requests to minimize risks of HTTP Desync attacks
+- [ammonia](https://github.com/rust-ammonia/ammonia) - Repair and secure untrusted HTML
 
 <br/>
 
@@ -72,6 +78,7 @@
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - cryptographically verifiable code review for cargo
 - [arch-audit](https://github.com/ilpianista/arch-audit) - audit installed Arch packages for vulnerabilities
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively search directories with regexes
+- [weggli](https://github.com/googleprojectzero/weggli) - fast and robust semantic search tool for C and C++ codebases
 
 ### Fuzzing
 
@@ -121,11 +128,13 @@
 
 ## Offensive Security and Red Teaming
 
-> TODO: need contributions!
-
 ### Command-and-Control Frameworks
 
+- [tetanus](https://github.com/MythicAgents/tetanus) - Mythic agent written in Rust 
+
 ### Defense Evasion
+
+- [FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique.
 
 ### Packing, Obfuscation, Encryption
 
@@ -134,7 +143,7 @@
 
 <br/>
 
-## Malware and Threat Detection
+## Threat Detection & Forensics
 
 - [yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings to YARA
 - [BONOMEN](https://github.com/0xcpu/bonomen) - hunt for malware critical process impersonation
@@ -142,6 +151,10 @@
 - [redbpf](https://github.com/foniod/redbpf) - crate for writing BPF/eBPF modules
 - [cernan](https://github.com/postmates/cernan) - telemetry aggregation and shipping
 - [chainsaw](https://github.com/countercept/chainsaw) - Windows Event Log Hunting
+- [foniod](https://github.com/foniod/foniod) - Data first monitoring agent using (e)BPF, built on RedBPF
+- [zerotect](https://github.com/polyverse/zerotect) - An attack/exploit Detector that utilizes Polymorphism and Diversity
+- [hayabusa](https://github.com/Yamato-Security/hayabusa) - Sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust.
+- [medusa](https://github.com/evilsocket/medusa) = A fast and secure multi protocol honeypot.
 
 <br/>
 
@@ -155,12 +168,16 @@
 - [molasses](https://github.com/trailofbits/molasses) - Rust implementation of the MLS group messaging protocol
 - [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Rust bindings to the macOS `Security.framework`
 - [microkv](https://github.com/ex0dus-0x/microkv) - minimal and secure key-value storage for Rust
+0 [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation
 
-### Applications
+## Applications
 
 - [ripasso](https://github.com/cortex/ripasso/) - password manager written in Rust
 - [sekey](https://github.com/sekey/sekey) - TouchID / Secure Enclave for SSH authentication
 - [Mullvad VPN Client](https://github.com/mullvad/mullvadvpn-app) - Mullvad VPN app written in Rust
+- [fakio](https://github.com/SerhoLiu/fakio) - A lightweight secure tunnel proxy.
+- [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+
 
 <br/>
 
