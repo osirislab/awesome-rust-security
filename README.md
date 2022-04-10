@@ -12,6 +12,7 @@
     - [Offensive Security and Red Teaming](#offensive-security-and-red-teaming)
     - [Malware and Threat Detection](#malware-and-threat-detection)
     - [Cryptography](#cryptography)
+    - [Applications](#applications)
 - [Educational](#educational)
     - [Books](#books)
     - [Articles](#articles)
@@ -177,7 +178,6 @@
 - [Mullvad VPN Client](https://github.com/mullvad/mullvadvpn-app) - Mullvad VPN app written in Rust
 - [fakio](https://github.com/SerhoLiu/fakio) - A lightweight secure tunnel proxy.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-
 
 <br/>
 
