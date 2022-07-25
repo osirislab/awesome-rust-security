@@ -137,9 +137,14 @@
 
 - [FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique.
 
-### Packing, Obfuscation, Encryption
+### Packing, Obfuscation, Encryption, Anti-analysis
 
+- [debugoff](https://github.com/0xor0ne/debugoff) - Linux anti-debugging and
+  anti-analysis rust library
+- [goldberg](https://github.com/frank2/goldberg) - procedural macro library for
+  obfuscating Rust code.
 - [obfstr](https://github.com/CasualX/obfstr) - string obfuscation for Rust
+- [oxide](https://github.com/frank2/oxide) - PoC packer written in Rust.
 - [Linux.Fe2O3](https://github.com/guitmz/Fe2O3) - Simple ELF prepender virus / in-memory loader written in Rust
 
 <br/>
