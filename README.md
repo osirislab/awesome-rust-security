@@ -47,7 +47,8 @@
 - [paseto.rs](https://github.com/instructure/paseto) - PASETO Rust implementation
 - [webauthn.rs](https://github.com/kanidm/webauthn-rs) - WebAuthn implementation in Rust
 - [aliri](https://github.com/neoeinstein/aliri) - JWT authenticaiton and OAuth2 scope authorization implementations for many web frameworks
-- [OpenSK](https://github.com/google/OpenSK) - open-source implementation for security keys written in Rust 
+- [OpenSK](https://github.com/google/OpenSK) - open-source implementation for security keys written in Rust
+- [dacquiri](https://github.com/resyncgg/dacquiri) - Attributed based access control (ABAC) framework with compile-time enforcement 
 
 ### Cloud and Infrastructure
 
