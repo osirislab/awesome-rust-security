@@ -96,6 +96,7 @@
 - [arbitrary](https://github.com/rust-fuzz/arbitrary) - trait for generating structured input from raw bytes, helpful for structure-aware fuzzing
 - [rust-san](https://github.com/japaric/rust-san) - sanitizers for Rust code
 - [lidiffuzz](https://github.com/Shnatsel/libdiffuzz) - memory allocator drop-in to test for uninitialized memory reads
+- [rewind](https://github.com/quarkslab/rewind) - Snapshot-based coverage-guided Windows kernel fuzzer
 
 ### Binary Analysis & Reversing
 
