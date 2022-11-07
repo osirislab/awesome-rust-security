@@ -110,6 +110,7 @@
 - [falcon](https://github.com/falconre/falcon) - Binary Analysis Framework in Rust
 - [mesos](https://github.com/gamozolabs/mesos) - binary coverage tool without modification for Windows
 - [guerilla](https://github.com/mehcode/guerrilla) - monkey patching Rust functions
+- [ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast™ multithreaded ROP Gadget finder.
 
 ### Property-Based Testing
 
