@@ -200,6 +200,7 @@
 ## Articles
 
 - [str::repeat wildcopy exploit writeup](https://saaramar.github.io/str_repeat_exploit/)
+- [Introduction to Fuzzing Rust code](https://fuzzinglabs.com/introduction-rust-fuzzing-tutorial/)
 
 ## Talks
 
@@ -220,4 +221,4 @@
 
 # Contributing
 
-Make a pull request if you are interested in adding more to this list!
+Make a pull request if you are interested in adding more to this list! All contributions are appreciated.
