@@ -163,7 +163,7 @@
 - [foniod](https://github.com/foniod/foniod) - Data first monitoring agent using (e)BPF, built on RedBPF
 - [zerotect](https://github.com/polyverse/zerotect) - An attack/exploit Detector that utilizes Polymorphism and Diversity
 - [hayabusa](https://github.com/Yamato-Security/hayabusa) - Sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust.
-- [medusa](https://github.com/evilsocket/medusa) = A fast and secure multi protocol honeypot.
+- [medusa](https://github.com/evilsocket/medusa) - A fast and secure multi protocol honeypot.
 
 <br/>
 
@@ -177,7 +177,7 @@
 - [molasses](https://github.com/trailofbits/molasses) - Rust implementation of the MLS group messaging protocol
 - [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Rust bindings to the macOS `Security.framework`
 - [microkv](https://github.com/ex0dus-0x/microkv) - minimal and secure key-value storage for Rust
-0 [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation
+- [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation
 
 ## Applications
 
@@ -200,11 +200,11 @@
 ## Articles
 
 - [str::repeat wildcopy exploit writeup](https://saaramar.github.io/str_repeat_exploit/)
-- [Basic Guide to Linux Exploit Mitigations and Building a Security Detector with Rust](https://codemuch.tech/2019/05/01/elf-security-rust/)
 
 ## Talks
 
-> TODO: need contributions!
+- [BlackHat EU 2018 - RustZone: Writing Trusted Applications in Rust](https://www.youtube.com/watch?v=9wLgXfo0l1g)
+- [DEFCON 30 - Lessons from fuzzing a smart contract compiler](https://www.youtube.com/watch?v=8E7XOHQiRPE)
 
 <br/>
 
