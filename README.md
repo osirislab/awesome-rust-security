@@ -113,6 +113,7 @@
 - [guerilla](https://github.com/mehcode/guerrilla) - monkey patching Rust functions
 - [ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast™ multithreaded ROP Gadget finder
 - [pwninit](https://github.com/io12/pwninit) - automate starting binary exploit challenges
+- [binaryninja-rs](https://github.com/Vector35/binaryninja-api/tree/dev/rust) - Binary Ninja API support for Rust
 
 ### Property-Based Testing
 
