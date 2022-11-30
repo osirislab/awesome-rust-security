@@ -111,7 +111,7 @@
 - [falcon](https://github.com/falconre/falcon) - Binary Analysis Framework in Rust
 - [mesos](https://github.com/gamozolabs/mesos) - binary coverage tool without modification for Windows
 - [guerilla](https://github.com/mehcode/guerrilla) - monkey patching Rust functions
-- [ropr](https://github.com/Ben-Lichtman/ropr) - A blazing fast™ multithreaded ROP Gadget finder
+- [ropr](https://github.com/Ben-Lichtman/ropr) - blazing fast™ multithreaded ROP Gadget finder
 - [pwninit](https://github.com/io12/pwninit) - automate starting binary exploit challenges
 - [binaryninja-rs](https://github.com/Vector35/binaryninja-api/tree/dev/rust) - Binary Ninja API support for Rust
 
@@ -142,7 +142,7 @@
 
 ### Defense Evasion
 
-- [FunctionStomping](https://github.com/Idov31/FunctionStomping) - A new shellcode injection technique.
+- [FunctionStomping](https://github.com/Idov31/FunctionStomping) - new shellcode injection technique.
 
 ### Packing, Obfuscation, Encryption, Anti-analysis
 
@@ -165,9 +165,9 @@
 - [cernan](https://github.com/postmates/cernan) - telemetry aggregation and shipping
 - [chainsaw](https://github.com/countercept/chainsaw) - Windows Event Log Hunting
 - [foniod](https://github.com/foniod/foniod) - Data first monitoring agent using (e)BPF, built on RedBPF
-- [zerotect](https://github.com/polyverse/zerotect) - An attack/exploit Detector that utilizes Polymorphism and Diversity
+- [zerotect](https://github.com/polyverse/zerotect) - attack/exploit Detector that utilizes Polymorphism and Diversity
 - [hayabusa](https://github.com/Yamato-Security/hayabusa) - Sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust.
-- [medusa](https://github.com/evilsocket/medusa) - A fast and secure multi protocol honeypot.
+- [medusa](https://github.com/evilsocket/medusa) - fast and secure multi protocol honeypot.
 
 <br/>
 
@@ -181,14 +181,15 @@
 - [molasses](https://github.com/trailofbits/molasses) - Rust implementation of the MLS group messaging protocol
 - [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Rust bindings to the macOS `Security.framework`
 - [microkv](https://github.com/ex0dus-0x/microkv) - minimal and secure key-value storage for Rust
-- [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation
+- [swanky](https://github.com/GaloisInc/swanky) - suite of rust libraries for secure multi-party computation
+- [tandem](https://github.com/sine-fdn/tandem) - maliciously secure two-party computation engine which is embeddable and accessible
 
 ## Applications
 
 - [ripasso](https://github.com/cortex/ripasso/) - password manager written in Rust
 - [sekey](https://github.com/sekey/sekey) - TouchID / Secure Enclave for SSH authentication
 - [Mullvad VPN Client](https://github.com/mullvad/mullvadvpn-app) - Mullvad VPN app written in Rust
-- [fakio](https://github.com/SerhoLiu/fakio) - A lightweight secure tunnel proxy.
+- [fakio](https://github.com/SerhoLiu/fakio) - lightweight secure tunnel proxy.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 <br/>
