@@ -82,6 +82,7 @@
 - [arch-audit](https://github.com/ilpianista/arch-audit) - audit installed Arch packages for vulnerabilities
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively search directories with regexes
 - [weggli](https://github.com/googleprojectzero/weggli) - fast and robust semantic search tool for C and C++ codebases
+- [noseyparker](https://github.com/praetorian-inc/noseyparker) - command-line program that finds secrets and sensitive information in textual data and Git history.
 
 ### Fuzzing
 
