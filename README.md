@@ -10,7 +10,7 @@
     - [Web and Cloud Security](#web-and-cloud-security)
     - [Vulnerability Assessment](#vulnerability-assessment)
     - [Offensive Security and Red Teaming](#offensive-security-and-red-teaming)
-    - [Malware and Threat Detection](#malware-and-threat-detection)
+    - [Threat Detection and Forensics](#threat-detection-and-forensics)
     - [Cryptography](#cryptography)
     - [Applications](#applications)
 - [Educational](#educational)
@@ -169,6 +169,7 @@
 - [zerotect](https://github.com/polyverse/zerotect) - attack/exploit Detector that utilizes Polymorphism and Diversity
 - [hayabusa](https://github.com/Yamato-Security/hayabusa) - Sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust.
 - [medusa](https://github.com/evilsocket/medusa) - fast and secure multi protocol honeypot.
+- [elegant-bouncer](https://github.com/msuiche/elegant-bouncer) - experimental tool for detection of the FORCEDENTRY (CVE-2021-30860)
 
 <br/>
 
