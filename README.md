@@ -157,7 +157,7 @@
 
 <br/>
 
-## Threat Detection & Forensics
+## Threat Detection and Forensics
 
 - [yara-rust](https://github.com/Hugal31/yara-rust) - Rust bindings to YARA
 - [BONOMEN](https://github.com/0xcpu/bonomen) - hunt for malware critical process impersonation
@@ -170,6 +170,7 @@
 - [hayabusa](https://github.com/Yamato-Security/hayabusa) - Sigma-based threat hunting and fast forensics timeline generator for Windows event logs written in Rust.
 - [medusa](https://github.com/evilsocket/medusa) - fast and secure multi protocol honeypot.
 - [elegant-bouncer](https://github.com/msuiche/elegant-bouncer) - experimental tool for detection of the FORCEDENTRY (CVE-2021-30860)
+- [cargo-sandbox](https://github.com/insanitybit/cargo-sandbox/) - sandboxed cargo
 
 <br/>
 
