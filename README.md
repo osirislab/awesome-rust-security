@@ -189,6 +189,7 @@
 
 ## Applications
 
+- [sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [ripasso](https://github.com/cortex/ripasso/) - password manager written in Rust
 - [sekey](https://github.com/sekey/sekey) - TouchID / Secure Enclave for SSH authentication
 - [Mullvad VPN Client](https://github.com/mullvad/mullvadvpn-app) - Mullvad VPN app written in Rust
