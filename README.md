@@ -99,6 +99,7 @@
 - [lidiffuzz](https://github.com/Shnatsel/libdiffuzz) - memory allocator drop-in to test for uninitialized memory reads
 - [rewind](https://github.com/quarkslab/rewind) - Snapshot-based coverage-guided Windows kernel fuzzer
 - [hyperpom](https://github.com/impalabs/hyperpom) - AArch64 fuzzer based on the Apple Silicon hypervisor
+- [icicle-emu](https://github.com/icicle-emu/icicle-emu) - Fuzzing-specific multi-architecture emulation framework
 
 ### Binary Analysis & Reversing
 
