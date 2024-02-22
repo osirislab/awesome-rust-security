@@ -83,6 +83,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - recursively search directories with regexes
 - [weggli](https://github.com/googleprojectzero/weggli) - fast and robust semantic search tool for C and C++ codebases
 - [noseyparker](https://github.com/praetorian-inc/noseyparker) - command-line program that finds secrets and sensitive information in textual data and Git history.
+- [L3X](https://github.com/VulnPlanet/l3x) - AI-driven Static Analyzer
 
 ### Fuzzing
 
